@@ -7,12 +7,6 @@ Interested in:
 - Data Science
 - ML/AI
 
-Languages:
-- Python
-- JavaScript
-- C++
-- *sarcasm*
-
 > Stay passionately curious.
 
 [![CND's github stats](https://github-readme-stats.vercel.app/api?username=CreateNDiscover&theme=darcula&show_icons=true)](https://github.com/CreateNDiscover)
