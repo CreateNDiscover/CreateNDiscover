@@ -8,9 +8,13 @@ Interested in:
 - ML/AI
 
 Languages:
-- ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-- ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-- ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
+- Python
+- JavaScript
+- C++
 - *sarcasm*
 
+> Stay passionately curious.
+
 [![CND's github stats](https://github-readme-stats.vercel.app/api?username=CreateNDiscover&theme=darcula&show_icons=true)](https://github.com/CreateNDiscover)
+
+![](https://komarev.com/ghpvc/?username=CreateNDiscover&color=orange)
