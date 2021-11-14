@@ -12,3 +12,5 @@ Languages:
 - JavaScript
 - C++
 - *sarcasm*
+
+[![CND's github stats](https://github-readme-stats.vercel.app/api?username=CreateNDiscover&show_icons=true)](https://github.com/CreateNDiscover)
