@@ -1,6 +1,6 @@
 # Hello!
 
-Scientist and self-taught programmer.
+Creating and discovering. Scientist and self-taught programmer.
 
 Interested in:
 - Natural Sciences
