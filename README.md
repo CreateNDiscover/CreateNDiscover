@@ -1,13 +1,11 @@
 # Hello!
 
-I'm a scientist and self-taught programmer.
+Scientist and self-taught programmer.
 
 Interested in:
 - Natural Sciences
 - Data Science
 - ML/AI
-
-> Stay passionately curious.
 
 [![CND's github stats](https://github-readme-stats.vercel.app/api?username=CreateNDiscover&theme=darcula&show_icons=true)](https://github.com/CreateNDiscover)
 
