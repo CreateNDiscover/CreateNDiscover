@@ -8,6 +8,6 @@ Interested in:
 - ML/AI
 
 
-[![CND's github stats](https://github-readme-stats.vercel.app/api?username=CreateNDiscover&theme=darcula&show_icons=true)](https://github.com/CreateNDiscover)
+[![CND's github stats](https://github-readme-stats.vercel.app/api?username=rosnetwolf&theme=darcula&show_icons=true)](https://github.com/rosnetwolf)
 
-![](https://komarev.com/ghpvc/?username=CreateNDiscover&color=orange)
+![](https://komarev.com/ghpvc/?username=rosnetwolfr&color=orange)
